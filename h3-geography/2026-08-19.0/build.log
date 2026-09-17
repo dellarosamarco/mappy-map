@@ -90,3 +90,39 @@
 2026-09-17T17:36:40Z = CK: valid compact H3 artifact already present, skipping (--resume)
 2026-09-17T17:36:40Z CK: 0.02 MiB raw, 0.01 MiB br, 17 divisions
 2026-09-17T17:36:40Z = CL: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:36:44Z CL: 2.51 MiB raw, 1.11 MiB br, 425 divisions
+2026-09-17T17:36:44Z = CM: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:36:46Z CM: 2.08 MiB raw, 0.87 MiB br, 512 divisions
+2026-09-17T17:36:46Z = CN: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:37:26Z CN: 28.57 MiB raw, 12.66 MiB br, 13463 divisions
+2026-09-17T17:37:26Z = CO: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:37:30Z CO: 3.25 MiB raw, 1.51 MiB br, 4935 divisions
+2026-09-17T17:37:30Z = CP: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:37:30Z CP: 0.00 MiB raw, 0.00 MiB br, 2 divisions
+2026-09-17T17:37:30Z = CR: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:37:31Z CR: 0.98 MiB raw, 0.46 MiB br, 589 divisions
+2026-09-17T17:37:31Z = CU: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:37:32Z CU: 0.38 MiB raw, 0.19 MiB br, 619 divisions
+2026-09-17T17:37:32Z = CV: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:37:32Z CV: 0.02 MiB raw, 0.01 MiB br, 77 divisions
+2026-09-17T17:37:32Z = CW: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:37:32Z CW: 0.00 MiB raw, 0.00 MiB br, 3 divisions
+2026-09-17T17:37:32Z = CX: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:37:32Z CX: 0.00 MiB raw, 0.00 MiB br, 2 divisions
+2026-09-17T17:37:32Z = CY: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:37:33Z CY: 0.54 MiB raw, 0.25 MiB br, 718 divisions
+2026-09-17T17:37:33Z = CZ: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:37:39Z CZ: 4.57 MiB raw, 2.23 MiB br, 6352 divisions
+2026-09-17T17:37:39Z = DE: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:38:10Z DE: 22.18 MiB raw, 9.96 MiB br, 23587 divisions
+2026-09-17T17:38:10Z = DJ: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:38:10Z DJ: 0.01 MiB raw, 0.00 MiB br, 21 divisions
+2026-09-17T17:38:10Z = DK: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:38:10Z DK: 0.14 MiB raw, 0.07 MiB br, 592 divisions
+2026-09-17T17:38:10Z = DM: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:38:10Z DM: 0.00 MiB raw, 0.00 MiB br, 13 divisions
+2026-09-17T17:38:10Z = DO: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:38:10Z DO: 0.11 MiB raw, 0.06 MiB br, 207 divisions
+2026-09-17T17:38:10Z = DZ: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:38:16Z DZ: 4.86 MiB raw, 2.03 MiB br, 2291 divisions
+2026-09-17T17:38:16Z Building 209 remaining compact H3 geography JSONs on 4 persistent division worker process(es); 63 countries reused.
