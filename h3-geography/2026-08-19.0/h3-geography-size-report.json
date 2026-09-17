@@ -1383,6 +1383,38 @@
       "rawBytes": 1141347,
       "transportBytes": 534087,
       "transportEncoding": "br"
+    },
+    "PE": {
+      "compressionRatio": 0.4386628743300851,
+      "countryCode": "PE",
+      "divisionCount": 2254,
+      "rawBytes": 6941367,
+      "transportBytes": 3044920,
+      "transportEncoding": "br"
+    },
+    "PF": {
+      "compressionRatio": 0.4590711256298825,
+      "countryCode": "PF",
+      "divisionCount": 171,
+      "rawBytes": 305811,
+      "transportBytes": 140389,
+      "transportEncoding": "br"
+    },
+    "PG": {
+      "compressionRatio": 0.46695179132666825,
+      "countryCode": "PG",
+      "divisionCount": 157,
+      "rawBytes": 274266,
+      "transportBytes": 128069,
+      "transportEncoding": "br"
+    },
+    "PH": {
+      "compressionRatio": 0.40710862639397455,
+      "countryCode": "PH",
+      "divisionCount": 1421,
+      "rawBytes": 3261896,
+      "transportBytes": 1327946,
+      "transportEncoding": "br"
     }
   },
   "h3GeographySchemaVersion": 8,
@@ -1484,6 +1516,14 @@
       "transportEncoding": "br"
     },
     {
+      "compressionRatio": 0.4386628743300851,
+      "countryCode": "PE",
+      "divisionCount": 2254,
+      "rawBytes": 6941367,
+      "transportBytes": 3044920,
+      "transportEncoding": "br"
+    },
+    {
       "compressionRatio": 0.3899898715249435,
       "countryCode": "IR",
       "divisionCount": 4997,
@@ -1538,24 +1578,16 @@
       "rawBytes": 3898630,
       "transportBytes": 1914700,
       "transportEncoding": "br"
-    },
-    {
-      "compressionRatio": 0.4659771554803231,
-      "countryCode": "CO",
-      "divisionCount": 4935,
-      "rawBytes": 3408695,
-      "transportBytes": 1588374,
-      "transportEncoding": "br"
     }
   ],
   "schemaVersion": 2,
   "sourceRelease": "2026-08-19.0",
   "totals": {
-    "compressionRatio": 0.44111518258605137,
-    "countryCount": 173,
-    "divisionCount": 274364,
-    "rawBytes": 317980862,
-    "transportBytes": 140266186,
+    "compressionRatio": 0.4407642593642236,
+    "countryCount": 177,
+    "divisionCount": 278367,
+    "rawBytes": 328764202,
+    "transportBytes": 144907510,
     "transportEncoding": "br"
   },
   "worldIndex": {
