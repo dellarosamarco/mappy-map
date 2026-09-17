@@ -456,3 +456,9 @@
 2026-09-17T18:28:02Z TZ: H3 work 19.6s over 37.1s elapsed (Overture 0.3s, write 0.2s; 390 divisions)
 2026-09-17T18:28:52Z TW: 3.30 MiB raw, 1.46 MiB br, 8173 divisions
 2026-09-17T18:28:52Z TZ: 0.42 MiB raw, 0.20 MiB br, 390 divisions
+2026-09-17T18:30:31Z UA: H3 work 511.6s over 179.2s elapsed (Overture 3.1s, write 0.0s; 20194 divisions)
+2026-09-17T18:30:33Z UM: H3 work 0.0s over 157.8s elapsed (Overture 0.0s, write 0.0s; 11 divisions)
+2026-09-17T18:30:34Z UG: H3 work 11.6s over 173.2s elapsed (Overture 0.2s, write 0.0s; 246 divisions)
+2026-09-17T18:30:54Z UA: 13.72 MiB raw, 6.20 MiB br, 20194 divisions
+2026-09-17T18:30:54Z UM: 0.00 MiB raw, 0.00 MiB br, 11 divisions
+2026-09-17T18:30:54Z UG: 0.29 MiB raw, 0.14 MiB br, 246 divisions
