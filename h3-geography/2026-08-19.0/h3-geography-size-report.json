@@ -1503,6 +1503,14 @@
       "rawBytes": 1837891,
       "transportBytes": 962050,
       "transportEncoding": "br"
+    },
+    "RS": {
+      "compressionRatio": 0.43629345731688984,
+      "countryCode": "RS",
+      "divisionCount": 4762,
+      "rawBytes": 4224001,
+      "transportBytes": 1842904,
+      "transportEncoding": "br"
     }
   },
   "h3GeographySchemaVersion": 8,
@@ -1671,11 +1679,11 @@
   "schemaVersion": 2,
   "sourceRelease": "2026-08-19.0",
   "totals": {
-    "compressionRatio": 0.44252377480591387,
-    "countryCount": 188,
-    "divisionCount": 320044,
-    "rawBytes": 357831102,
-    "transportBytes": 158348770,
+    "compressionRatio": 0.4424510873418072,
+    "countryCount": 189,
+    "divisionCount": 324806,
+    "rawBytes": 362055103,
+    "transportBytes": 160191674,
     "transportEncoding": "br"
   },
   "worldIndex": {
