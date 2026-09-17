@@ -134,3 +134,7 @@
 2026-09-17T17:39:37Z ER: 0.09 MiB raw, 0.05 MiB br, 139 divisions
 2026-09-17T17:39:42Z EE: 3.09 MiB raw, 1.48 MiB br, 4893 divisions
 2026-09-17T17:39:43Z EG: 0.45 MiB raw, 0.22 MiB br, 890 divisions
+2026-09-17T17:42:23Z ES: H3 work 593.8s over 170.6s elapsed (Overture 24.2s, write 0.1s; 8732 divisions)
+2026-09-17T17:42:30Z ET: H3 work 28.0s over 174.3s elapsed (Overture 0.0s, write 0.0s; 161 divisions)
+2026-09-17T17:42:45Z ES: 12.90 MiB raw, 5.58 MiB br, 8732 divisions
+2026-09-17T17:42:45Z ET: 0.33 MiB raw, 0.15 MiB br, 161 divisions
