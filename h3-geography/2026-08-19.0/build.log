@@ -56,3 +56,7 @@
 2026-09-17T16:38:01Z BN: 0.04 MiB raw, 0.02 MiB br, 102 divisions
 2026-09-17T16:38:01Z BM: 0.00 MiB raw, 0.00 MiB br, 12 divisions
 2026-09-17T16:38:01Z BJ: 0.16 MiB raw, 0.08 MiB br, 356 divisions
+2026-09-17T16:38:47Z BQ: H3 work 0.0s over 64.2s elapsed (Overture 0.0s, write 0.0s; 1 divisions)
+2026-09-17T16:38:47Z BQ: 0.00 MiB raw, 0.00 MiB br, 1 divisions
+2026-09-17T16:38:47Z BO: H3 work 239.8s over 65.3s elapsed (Overture 0.0s, write 0.0s; 3888 divisions)
+2026-09-17T16:38:52Z BO: 2.65 MiB raw, 1.17 MiB br, 3888 divisions
