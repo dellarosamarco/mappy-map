@@ -855,6 +855,22 @@
       "rawBytes": 1950903,
       "transportBytes": 786809,
       "transportEncoding": "br"
+    },
+    "IR": {
+      "compressionRatio": 0.3899898715249435,
+      "countryCode": "IR",
+      "divisionCount": 4997,
+      "rawBytes": 7549014,
+      "transportBytes": 2944039,
+      "transportEncoding": "br"
+    },
+    "IS": {
+      "compressionRatio": 0.485557627599627,
+      "countryCode": "IS",
+      "divisionCount": 74,
+      "rawBytes": 98668,
+      "transportBytes": 47909,
+      "transportEncoding": "br"
     }
   },
   "h3GeographySchemaVersion": 8,
@@ -940,6 +956,14 @@
       "transportEncoding": "br"
     },
     {
+      "compressionRatio": 0.3899898715249435,
+      "countryCode": "IR",
+      "divisionCount": 4997,
+      "rawBytes": 7549014,
+      "transportBytes": 2944039,
+      "transportEncoding": "br"
+    },
+    {
       "compressionRatio": 0.487886703720698,
       "countryCode": "CZ",
       "divisionCount": 6352,
@@ -1010,24 +1034,16 @@
       "rawBytes": 3490123,
       "transportBytes": 1425927,
       "transportEncoding": "br"
-    },
-    {
-      "compressionRatio": 0.45766403440511355,
-      "countryCode": "EC",
-      "divisionCount": 1376,
-      "rawBytes": 3067451,
-      "transportBytes": 1403862,
-      "transportEncoding": "br"
     }
   ],
   "schemaVersion": 2,
   "sourceRelease": "2026-08-19.0",
   "totals": {
-    "compressionRatio": 0.44227545869105644,
-    "countryCount": 107,
-    "divisionCount": 207235,
-    "rawBytes": 242836542,
-    "transportBytes": 107400643,
+    "compressionRatio": 0.4407167415062435,
+    "countryCount": 109,
+    "divisionCount": 212306,
+    "rawBytes": 250484224,
+    "transportBytes": 110392591,
     "transportEncoding": "br"
   },
   "worldIndex": {

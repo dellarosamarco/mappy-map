@@ -214,3 +214,7 @@
 2026-09-17T17:49:35Z IN: 3.07 MiB raw, 1.48 MiB br, 6145 divisions
 2026-09-17T17:50:08Z IQ: H3 work 149.9s over 66.7s elapsed (Overture 0.0s, write 0.0s; 590 divisions)
 2026-09-17T17:50:11Z IQ: 1.86 MiB raw, 0.75 MiB br, 590 divisions
+2026-09-17T17:52:39Z IR: H3 work 602.4s over 217.3s elapsed (Overture 0.0s, write 0.0s; 4997 divisions)
+2026-09-17T17:52:41Z IS: H3 work 4.1s over 193.8s elapsed (Overture 0.0s, write 0.0s; 74 divisions)
+2026-09-17T17:52:50Z IR: 7.20 MiB raw, 2.81 MiB br, 4997 divisions
+2026-09-17T17:52:51Z IS: 0.09 MiB raw, 0.05 MiB br, 74 divisions
