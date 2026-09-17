@@ -346,3 +346,5 @@
 2026-09-17T18:06:43Z OM: 0.18 MiB raw, 0.08 MiB br, 155 divisions
 2026-09-17T18:06:50Z PA: H3 work 53.5s over 76.7s elapsed (Overture 0.1s, write 0.0s; 581 divisions)
 2026-09-17T18:06:53Z PA: 1.09 MiB raw, 0.51 MiB br, 581 divisions
+2026-09-17T18:08:41Z PE: H3 work 444.9s over 184.3s elapsed (Overture 2.4s, write 0.0s; 2254 divisions)
+2026-09-17T18:08:50Z PG: H3 work 11.7s over 133.3s elapsed (Overture 0.1s, write 0.0s; 157 divisions)
