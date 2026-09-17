@@ -467,3 +467,14 @@
 2026-09-17T18:33:53Z VA: H3 work 0.0s over 199.3s elapsed (Overture 0.0s, write 0.0s; 1 divisions)
 2026-09-17T18:33:53Z VC: H3 work 0.1s over 16.2s elapsed (Overture 0.0s, write 0.0s; 9 divisions)
 2026-09-17T18:33:54Z UZ: H3 work 25.8s over 200.5s elapsed (Overture 0.2s, write 0.0s; 3862 divisions)
+2026-09-17T18:34:53Z US: 39.03 MiB raw, 15.63 MiB br, 35040 divisions
+2026-09-17T18:34:54Z UY: 0.31 MiB raw, 0.16 MiB br, 773 divisions
+2026-09-17T18:34:54Z VA: 0.00 MiB raw, 0.00 MiB br, 1 divisions
+2026-09-17T18:34:54Z VC: 0.00 MiB raw, 0.00 MiB br, 9 divisions
+2026-09-17T18:34:55Z UZ: 1.24 MiB raw, 0.63 MiB br, 3862 divisions
+2026-09-17T18:35:33Z VG: H3 work 0.1s over 99.6s elapsed (Overture 0.0s, write 0.0s; 7 divisions)
+2026-09-17T18:35:33Z VG: 0.00 MiB raw, 0.00 MiB br, 7 divisions
+2026-09-17T18:35:33Z VI: H3 work 0.1s over 99.8s elapsed (Overture 0.0s, write 0.0s; 9 divisions)
+2026-09-17T18:35:34Z VI: 0.00 MiB raw, 0.00 MiB br, 9 divisions
+2026-09-17T18:35:34Z VE: H3 work 393.0s over 108.6s elapsed (Overture 5.9s, write 0.0s; 2353 divisions)
+2026-09-17T18:35:43Z VE: 5.07 MiB raw, 2.24 MiB br, 2353 divisions
