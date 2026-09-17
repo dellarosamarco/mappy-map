@@ -208,3 +208,9 @@
 2026-09-17T17:49:11Z IE: 0.24 MiB raw, 0.12 MiB br, 703 divisions
 2026-09-17T17:49:12Z IL: 0.53 MiB raw, 0.26 MiB br, 1215 divisions
 2026-09-17T17:49:12Z IM: 0.00 MiB raw, 0.00 MiB br, 37 divisions
+2026-09-17T17:49:27Z IO: H3 work 0.0s over 27.0s elapsed (Overture 0.0s, write 0.0s; 1 divisions)
+2026-09-17T17:49:27Z IO: 0.00 MiB raw, 0.00 MiB br, 1 divisions
+2026-09-17T17:49:27Z IN: H3 work 97.7s over 31.4s elapsed (Overture 0.0s, write 0.0s; 6145 divisions)
+2026-09-17T17:49:35Z IN: 3.07 MiB raw, 1.48 MiB br, 6145 divisions
+2026-09-17T17:50:08Z IQ: H3 work 149.9s over 66.7s elapsed (Overture 0.0s, write 0.0s; 590 divisions)
+2026-09-17T17:50:11Z IQ: 1.86 MiB raw, 0.75 MiB br, 590 divisions
