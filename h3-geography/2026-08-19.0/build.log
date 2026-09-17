@@ -355,3 +355,11 @@
 2026-09-17T18:09:46Z PH: H3 work 184.8s over 175.8s elapsed (Overture 0.5s, write 0.0s; 1421 divisions)
 2026-09-17T18:09:51Z PH: 3.11 MiB raw, 1.27 MiB br, 1421 divisions
 2026-09-17T18:11:00Z PK: H3 work 292.9s over 138.2s elapsed (Overture 0.5s, write 0.0s; 1275 divisions)
+2026-09-17T18:11:05Z PK: 3.41 MiB raw, 1.44 MiB br, 1275 divisions
+2026-09-17T18:12:40Z PN: H3 work 0.0s over 173.9s elapsed (Overture 0.0s, write 0.0s; 1 divisions)
+2026-09-17T18:12:43Z PN: 0.00 MiB raw, 0.00 MiB br, 1 divisions
+2026-09-17T18:12:43Z PM: H3 work 0.2s over 203.7s elapsed (Overture 0.0s, write 0.0s; 3 divisions)
+2026-09-17T18:12:43Z PR: H3 work 0.4s over 103.4s elapsed (Overture 0.2s, write 0.0s; 79 divisions)
+2026-09-17T18:12:44Z PL: H3 work 395.4s over 223.8s elapsed (Overture 10.0s, write 0.1s; 29109 divisions)
+2026-09-17T18:12:46Z PM: 0.01 MiB raw, 0.00 MiB br, 3 divisions
+2026-09-17T18:12:46Z PR: 0.01 MiB raw, 0.01 MiB br, 79 divisions
