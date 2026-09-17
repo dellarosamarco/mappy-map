@@ -1,0 +1,315 @@
+2026-09-17T17:34:11Z = world index: valid 2026-08-19.0 artifact already present, skipping (--resume)
+2026-09-17T17:34:27Z = AD: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:34:27Z AD: 0.00 MiB raw, 0.00 MiB br, 10 divisions
+2026-09-17T17:34:27Z = AE: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:34:27Z AE: 0.60 MiB raw, 0.24 MiB br, 352 divisions
+2026-09-17T17:34:27Z = AF: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:34:28Z AF: 0.49 MiB raw, 0.24 MiB br, 586 divisions
+2026-09-17T17:34:28Z = AG: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:34:28Z AG: 0.00 MiB raw, 0.00 MiB br, 9 divisions
+2026-09-17T17:34:28Z = AI: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:34:28Z AI: 0.00 MiB raw, 0.00 MiB br, 1 divisions
+2026-09-17T17:34:28Z = AL: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:34:29Z AL: 0.63 MiB raw, 0.29 MiB br, 474 divisions
+2026-09-17T17:34:29Z = AM: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:34:29Z AM: 0.33 MiB raw, 0.17 MiB br, 1090 divisions
+2026-09-17T17:34:29Z = AO: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:34:30Z AO: 0.40 MiB raw, 0.19 MiB br, 242 divisions
+2026-09-17T17:34:30Z = AQ: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:34:30Z AQ: 0.01 MiB raw, 0.00 MiB br, 2 divisions
+2026-09-17T17:34:30Z = AR: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:34:40Z AR: 7.81 MiB raw, 3.05 MiB br, 3308 divisions
+2026-09-17T17:34:40Z = AS: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:34:40Z AS: 0.05 MiB raw, 0.03 MiB br, 97 divisions
+2026-09-17T17:34:40Z = AT: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:34:43Z AT: 2.65 MiB raw, 1.26 MiB br, 2319 divisions
+2026-09-17T17:34:43Z = AU: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:35:21Z AU: 28.17 MiB raw, 11.61 MiB br, 14568 divisions
+2026-09-17T17:35:21Z = AW: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:35:21Z AW: 0.00 MiB raw, 0.00 MiB br, 6 divisions
+2026-09-17T17:35:21Z = AX: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:35:21Z AX: 0.02 MiB raw, 0.01 MiB br, 25 divisions
+2026-09-17T17:35:21Z = AZ: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:35:22Z AZ: 0.89 MiB raw, 0.46 MiB br, 3462 divisions
+2026-09-17T17:35:22Z = BA: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:35:23Z BA: 0.22 MiB raw, 0.11 MiB br, 164 divisions
+2026-09-17T17:35:23Z = BB: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:35:23Z BB: 0.01 MiB raw, 0.01 MiB br, 92 divisions
+2026-09-17T17:35:23Z = BD: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:35:24Z BD: 0.80 MiB raw, 0.38 MiB br, 819 divisions
+2026-09-17T17:35:24Z = BE: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:35:26Z BE: 1.73 MiB raw, 0.80 MiB br, 2295 divisions
+2026-09-17T17:35:26Z = BF: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:35:27Z BF: 1.29 MiB raw, 0.54 MiB br, 331 divisions
+2026-09-17T17:35:27Z = BG: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:35:29Z BG: 2.05 MiB raw, 0.98 MiB br, 2322 divisions
+2026-09-17T17:35:29Z = BH: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:35:29Z BH: 0.00 MiB raw, 0.00 MiB br, 7 divisions
+2026-09-17T17:35:29Z = BI: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:35:30Z BI: 0.06 MiB raw, 0.03 MiB br, 159 divisions
+2026-09-17T17:35:30Z = BJ: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:35:30Z BJ: 0.16 MiB raw, 0.08 MiB br, 356 divisions
+2026-09-17T17:35:30Z = BL: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:35:30Z BL: 0.00 MiB raw, 0.00 MiB br, 2 divisions
+2026-09-17T17:35:30Z = BM: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:35:30Z BM: 0.00 MiB raw, 0.00 MiB br, 12 divisions
+2026-09-17T17:35:30Z = BN: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:35:30Z BN: 0.04 MiB raw, 0.02 MiB br, 102 divisions
+2026-09-17T17:35:30Z = BO: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:35:33Z BO: 2.65 MiB raw, 1.17 MiB br, 3888 divisions
+2026-09-17T17:35:33Z = BQ: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:35:33Z BQ: 0.00 MiB raw, 0.00 MiB br, 1 divisions
+2026-09-17T17:35:33Z = BR: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:36:11Z BR: 26.45 MiB raw, 11.25 MiB br, 6377 divisions
+2026-09-17T17:36:11Z = BS: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:36:11Z BS: 0.01 MiB raw, 0.01 MiB br, 36 divisions
+2026-09-17T17:36:11Z = BT: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:36:12Z BT: 0.94 MiB raw, 0.44 MiB br, 1063 divisions
+2026-09-17T17:36:12Z = BV: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:36:12Z BV: 0.00 MiB raw, 0.00 MiB br, 1 divisions
+2026-09-17T17:36:12Z = BW: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:36:12Z BW: 0.11 MiB raw, 0.05 MiB br, 59 divisions
+2026-09-17T17:36:12Z = BY: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:36:22Z BY: 7.61 MiB raw, 3.62 MiB br, 23806 divisions
+2026-09-17T17:36:22Z = BZ: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:36:22Z BZ: 0.04 MiB raw, 0.02 MiB br, 41 divisions
+2026-09-17T17:36:22Z = CA: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:36:36Z CA: 10.79 MiB raw, 4.40 MiB br, 7375 divisions
+2026-09-17T17:36:36Z = CC: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:36:36Z CC: 0.00 MiB raw, 0.00 MiB br, 2 divisions
+2026-09-17T17:36:36Z = CD: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:36:37Z CD: 1.34 MiB raw, 0.61 MiB br, 1490 divisions
+2026-09-17T17:36:37Z = CF: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:36:38Z CF: 0.23 MiB raw, 0.11 MiB br, 124 divisions
+2026-09-17T17:36:38Z = CG: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:36:38Z CG: 0.13 MiB raw, 0.06 MiB br, 91 divisions
+2026-09-17T17:36:38Z = CH: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:36:40Z CH: 1.75 MiB raw, 0.86 MiB br, 2335 divisions
+2026-09-17T17:36:40Z = CI: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:36:40Z CI: 0.54 MiB raw, 0.23 MiB br, 207 divisions
+2026-09-17T17:36:40Z = CK: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:36:40Z CK: 0.02 MiB raw, 0.01 MiB br, 17 divisions
+2026-09-17T17:36:40Z = CL: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:36:44Z CL: 2.51 MiB raw, 1.11 MiB br, 425 divisions
+2026-09-17T17:36:44Z = CM: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:36:46Z CM: 2.08 MiB raw, 0.87 MiB br, 512 divisions
+2026-09-17T17:36:46Z = CN: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:37:26Z CN: 28.57 MiB raw, 12.66 MiB br, 13463 divisions
+2026-09-17T17:37:26Z = CO: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:37:30Z CO: 3.25 MiB raw, 1.51 MiB br, 4935 divisions
+2026-09-17T17:37:30Z = CP: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:37:30Z CP: 0.00 MiB raw, 0.00 MiB br, 2 divisions
+2026-09-17T17:37:30Z = CR: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:37:31Z CR: 0.98 MiB raw, 0.46 MiB br, 589 divisions
+2026-09-17T17:37:31Z = CU: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:37:32Z CU: 0.38 MiB raw, 0.19 MiB br, 619 divisions
+2026-09-17T17:37:32Z = CV: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:37:32Z CV: 0.02 MiB raw, 0.01 MiB br, 77 divisions
+2026-09-17T17:37:32Z = CW: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:37:32Z CW: 0.00 MiB raw, 0.00 MiB br, 3 divisions
+2026-09-17T17:37:32Z = CX: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:37:32Z CX: 0.00 MiB raw, 0.00 MiB br, 2 divisions
+2026-09-17T17:37:32Z = CY: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:37:33Z CY: 0.54 MiB raw, 0.25 MiB br, 718 divisions
+2026-09-17T17:37:33Z = CZ: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:37:39Z CZ: 4.57 MiB raw, 2.23 MiB br, 6352 divisions
+2026-09-17T17:37:39Z = DE: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:38:10Z DE: 22.18 MiB raw, 9.96 MiB br, 23587 divisions
+2026-09-17T17:38:10Z = DJ: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:38:10Z DJ: 0.01 MiB raw, 0.00 MiB br, 21 divisions
+2026-09-17T17:38:10Z = DK: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:38:10Z DK: 0.14 MiB raw, 0.07 MiB br, 592 divisions
+2026-09-17T17:38:10Z = DM: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:38:10Z DM: 0.00 MiB raw, 0.00 MiB br, 13 divisions
+2026-09-17T17:38:10Z = DO: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:38:10Z DO: 0.11 MiB raw, 0.06 MiB br, 207 divisions
+2026-09-17T17:38:10Z = DZ: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:38:16Z DZ: 4.86 MiB raw, 2.03 MiB br, 2291 divisions
+2026-09-17T17:38:16Z Building 209 remaining compact H3 geography JSONs on 4 persistent division worker process(es); 63 countries reused.
+2026-09-17T17:39:08Z EC: H3 work 35.2s over 12.5s elapsed (Overture 38.7s, write 0.0s; 1376 divisions, 532 divisions resumed)
+2026-09-17T17:39:35Z EC: 2.93 MiB raw, 1.34 MiB br, 1376 divisions
+2026-09-17T17:39:35Z ER: H3 work 3.3s over 30.4s elapsed (Overture 0.0s, write 0.0s; 139 divisions)
+2026-09-17T17:39:36Z EE: H3 work 67.3s over 38.0s elapsed (Overture 0.0s, write 0.0s; 4893 divisions)
+2026-09-17T17:39:36Z EG: H3 work 14.7s over 30.9s elapsed (Overture 0.0s, write 0.0s; 890 divisions)
+2026-09-17T17:39:37Z ER: 0.09 MiB raw, 0.05 MiB br, 139 divisions
+2026-09-17T17:39:42Z EE: 3.09 MiB raw, 1.48 MiB br, 4893 divisions
+2026-09-17T17:39:43Z EG: 0.45 MiB raw, 0.22 MiB br, 890 divisions
+2026-09-17T17:42:23Z ES: H3 work 593.8s over 170.6s elapsed (Overture 24.2s, write 0.1s; 8732 divisions)
+2026-09-17T17:42:30Z ET: H3 work 28.0s over 174.3s elapsed (Overture 0.0s, write 0.0s; 161 divisions)
+2026-09-17T17:42:45Z ES: 12.90 MiB raw, 5.58 MiB br, 8732 divisions
+2026-09-17T17:42:45Z ET: 0.33 MiB raw, 0.15 MiB br, 161 divisions
+2026-09-17T17:43:33Z FI: H3 work 251.2s over 236.9s elapsed (Overture 0.0s, write 0.0s; 2188 divisions)
+2026-09-17T17:43:33Z FK: H3 work 0.2s over 70.1s elapsed (Overture 0.0s, write 0.0s; 26 divisions)
+2026-09-17T17:43:37Z FJ: H3 work 1.1s over 240.8s elapsed (Overture 0.0s, write 0.0s; 133 divisions)
+2026-09-17T17:43:37Z FO: H3 work 2.4s over 4.6s elapsed (Overture 0.0s, write 0.0s; 92 divisions)
+2026-09-17T17:43:37Z FM: H3 work 9.2s over 67.3s elapsed (Overture 0.0s, write 0.0s; 84 divisions)
+2026-09-17T17:43:50Z FI: 3.33 MiB raw, 1.36 MiB br, 2188 divisions
+2026-09-17T17:43:50Z FK: 0.01 MiB raw, 0.00 MiB br, 26 divisions
+2026-09-17T17:43:50Z FJ: 0.04 MiB raw, 0.02 MiB br, 133 divisions
+2026-09-17T17:43:50Z FO: 0.08 MiB raw, 0.04 MiB br, 92 divisions
+2026-09-17T17:43:50Z FM: 0.15 MiB raw, 0.07 MiB br, 84 divisions
+2026-09-17T17:44:55Z FR: H3 work 299.5s over 82.1s elapsed (Overture 0.0s, write 0.0s; 2317 divisions)
+2026-09-17T17:44:55Z GA: H3 work 4.7s over 78.0s elapsed (Overture 0.0s, write 0.0s; 96 divisions)
+2026-09-17T17:45:01Z FR: 3.21 MiB raw, 1.49 MiB br, 2317 divisions
+2026-09-17T17:45:01Z GA: 0.12 MiB raw, 0.06 MiB br, 96 divisions
+2026-09-17T17:45:46Z GD: H3 work 0.1s over 116.7s elapsed (Overture 0.0s, write 0.0s; 8 divisions)
+2026-09-17T17:45:47Z GB: H3 work 194.3s over 129.1s elapsed (Overture 0.0s, write 0.0s; 22139 divisions)
+2026-09-17T17:45:47Z GD: 0.00 MiB raw, 0.00 MiB br, 8 divisions
+2026-09-17T17:45:49Z GE: H3 work 8.5s over 53.7s elapsed (Overture 0.0s, write 0.0s; 1308 divisions)
+2026-09-17T17:45:49Z GG: H3 work 0.8s over 3.2s elapsed (Overture 0.0s, write 0.0s; 14 divisions)
+2026-09-17T17:45:50Z GF: H3 work 2.4s over 54.4s elapsed (Overture 0.0s, write 0.0s; 29 divisions)
+2026-09-17T17:45:51Z GI: H3 work 0.0s over 2.8s elapsed (Overture 0.0s, write 0.0s; 1 divisions)
+2026-09-17T17:45:53Z GH: H3 work 11.9s over 6.8s elapsed (Overture 0.0s, write 0.0s; 298 divisions)
+2026-09-17T17:45:55Z GM: H3 work 0.9s over 5.3s elapsed (Overture 0.0s, write 0.0s; 218 divisions)
+2026-09-17T17:45:58Z GL: H3 work 11.8s over 8.1s elapsed (Overture 0.0s, write 0.0s; 19 divisions)
+2026-09-17T17:46:00Z GN: H3 work 15.8s over 8.4s elapsed (Overture 0.0s, write 0.0s; 143 divisions)
+2026-09-17T17:46:01Z GP: H3 work 2.7s over 7.6s elapsed (Overture 0.0s, write 0.0s; 35 divisions)
+2026-09-17T17:46:07Z GQ: H3 work 24.2s over 11.6s elapsed (Overture 0.0s, write 0.0s; 66 divisions)
+2026-09-17T17:46:08Z GS: H3 work 0.1s over 8.5s elapsed (Overture 0.0s, write 0.0s; 4 divisions)
+2026-09-17T17:46:10Z GT: H3 work 4.0s over 9.2s elapsed (Overture 0.0s, write 0.0s; 450 divisions)
+2026-09-17T17:46:11Z GU: H3 work 0.4s over 3.9s elapsed (Overture 0.0s, write 0.0s; 48 divisions)
+2026-09-17T17:46:12Z GR: H3 work 9.0s over 14.4s elapsed (Overture 0.0s, write 0.0s; 531 divisions)
+2026-09-17T17:46:12Z GW: H3 work 1.6s over 3.6s elapsed (Overture 0.0s, write 0.0s; 162 divisions)
+2026-09-17T17:46:13Z GB: 10.82 MiB raw, 5.27 MiB br, 22139 divisions
+2026-09-17T17:46:13Z HM: H3 work 0.0s over 1.3s elapsed (Overture 0.0s, write 0.1s; 1 divisions)
+2026-09-17T17:46:18Z GE: 0.45 MiB raw, 0.22 MiB br, 1308 divisions
+2026-09-17T17:46:18Z GG: 0.00 MiB raw, 0.00 MiB br, 14 divisions
+2026-09-17T17:46:18Z GF: 0.04 MiB raw, 0.02 MiB br, 29 divisions
+2026-09-17T17:46:18Z GI: 0.00 MiB raw, 0.00 MiB br, 1 divisions
+2026-09-17T17:46:18Z GH: 0.29 MiB raw, 0.14 MiB br, 298 divisions
+2026-09-17T17:46:18Z GM: 0.04 MiB raw, 0.02 MiB br, 218 divisions
+2026-09-17T17:46:18Z GL: 0.10 MiB raw, 0.04 MiB br, 19 divisions
+2026-09-17T17:46:18Z GN: 0.20 MiB raw, 0.09 MiB br, 143 divisions
+2026-09-17T17:46:18Z GP: 0.05 MiB raw, 0.03 MiB br, 35 divisions
+2026-09-17T17:46:18Z GQ: 0.19 MiB raw, 0.08 MiB br, 66 divisions
+2026-09-17T17:46:18Z GS: 0.00 MiB raw, 0.00 MiB br, 4 divisions
+2026-09-17T17:46:18Z GT: 0.19 MiB raw, 0.09 MiB br, 450 divisions
+2026-09-17T17:46:18Z GU: 0.01 MiB raw, 0.01 MiB br, 48 divisions
+2026-09-17T17:46:18Z GR: 0.24 MiB raw, 0.12 MiB br, 531 divisions
+2026-09-17T17:46:18Z GW: 0.05 MiB raw, 0.03 MiB br, 162 divisions
+2026-09-17T17:46:18Z HM: 0.00 MiB raw, 0.00 MiB br, 1 divisions
+2026-09-17T17:46:18Z GY: H3 work 7.7s over 7.9s elapsed (Overture 0.0s, write 0.0s; 314 divisions)
+2026-09-17T17:46:18Z HK: H3 work 0.5s over 7.5s elapsed (Overture 0.0s, write 0.0s; 62 divisions)
+2026-09-17T17:46:18Z HN: H3 work 4.4s over 6.1s elapsed (Overture 0.0s, write 0.0s; 482 divisions)
+2026-09-17T17:46:53Z GY: 0.21 MiB raw, 0.10 MiB br, 314 divisions
+2026-09-17T17:46:53Z HK: 0.02 MiB raw, 0.01 MiB br, 62 divisions
+2026-09-17T17:46:53Z HN: 0.22 MiB raw, 0.11 MiB br, 482 divisions
+2026-09-17T17:46:53Z HT: H3 work 34.0s over 34.8s elapsed (Overture 0.0s, write 0.0s; 196 divisions)
+2026-09-17T17:46:53Z HR: H3 work 69.1s over 36.7s elapsed (Overture 3.1s, write 0.0s; 7605 divisions)
+2026-09-17T17:46:54Z HT: 0.51 MiB raw, 0.24 MiB br, 196 divisions
+2026-09-17T17:47:02Z HR: 3.72 MiB raw, 1.83 MiB br, 7605 divisions
+2026-09-17T17:47:13Z HU: H3 work 77.2s over 54.2s elapsed (Overture 0.0s, write 0.0s; 3356 divisions)
+2026-09-17T17:47:20Z HU: 3.15 MiB raw, 1.46 MiB br, 3356 divisions
+2026-09-17T17:48:56Z ID: H3 work 397.4s over 128.7s elapsed (Overture 28.4s, write 0.0s; 5395 divisions)
+2026-09-17T17:49:00Z IE: H3 work 6.6s over 126.8s elapsed (Overture 0.0s, write 0.0s; 703 divisions)
+2026-09-17T17:49:02Z IL: H3 work 16.6s over 127.5s elapsed (Overture 0.0s, write 0.0s; 1215 divisions)
+2026-09-17T17:49:02Z IM: H3 work 0.1s over 109.3s elapsed (Overture 0.0s, write 0.0s; 37 divisions)
+2026-09-17T17:49:11Z ID: 7.43 MiB raw, 3.29 MiB br, 5395 divisions
+2026-09-17T17:49:11Z IE: 0.24 MiB raw, 0.12 MiB br, 703 divisions
+2026-09-17T17:49:12Z IL: 0.53 MiB raw, 0.26 MiB br, 1215 divisions
+2026-09-17T17:49:12Z IM: 0.00 MiB raw, 0.00 MiB br, 37 divisions
+2026-09-17T17:49:27Z IO: H3 work 0.0s over 27.0s elapsed (Overture 0.0s, write 0.0s; 1 divisions)
+2026-09-17T17:49:27Z IO: 0.00 MiB raw, 0.00 MiB br, 1 divisions
+2026-09-17T17:49:27Z IN: H3 work 97.7s over 31.4s elapsed (Overture 0.0s, write 0.0s; 6145 divisions)
+2026-09-17T17:49:35Z IN: 3.07 MiB raw, 1.48 MiB br, 6145 divisions
+2026-09-17T17:50:08Z IQ: H3 work 149.9s over 66.7s elapsed (Overture 0.0s, write 0.0s; 590 divisions)
+2026-09-17T17:50:11Z IQ: 1.86 MiB raw, 0.75 MiB br, 590 divisions
+2026-09-17T17:52:39Z IR: H3 work 602.4s over 217.3s elapsed (Overture 0.0s, write 0.0s; 4997 divisions)
+2026-09-17T17:52:41Z IS: H3 work 4.1s over 193.8s elapsed (Overture 0.0s, write 0.0s; 74 divisions)
+2026-09-17T17:52:50Z IR: 7.20 MiB raw, 2.81 MiB br, 4997 divisions
+2026-09-17T17:52:51Z IS: 0.09 MiB raw, 0.05 MiB br, 74 divisions
+2026-09-17T17:53:44Z JE: H3 work 0.1s over 215.5s elapsed (Overture 0.0s, write 0.0s; 70 divisions)
+2026-09-17T17:53:52Z JE: 0.01 MiB raw, 0.00 MiB br, 70 divisions
+2026-09-17T17:53:52Z IT: H3 work 248.4s over 264.6s elapsed (Overture 0.0s, write 0.1s; 8708 divisions)
+2026-09-17T17:53:52Z JM: H3 work 0.5s over 72.9s elapsed (Overture 0.0s, write 0.0s; 54 divisions)
+2026-09-17T17:53:52Z JO: H3 work 16.8s over 71.3s elapsed (Overture 0.0s, write 0.0s; 154 divisions)
+2026-09-17T17:54:11Z IT: 9.11 MiB raw, 4.25 MiB br, 8708 divisions
+2026-09-17T17:54:11Z JM: 0.03 MiB raw, 0.01 MiB br, 54 divisions
+2026-09-17T17:54:11Z JO: 0.30 MiB raw, 0.13 MiB br, 154 divisions
+2026-09-17T17:56:39Z JP: H3 work 656.7s over 175.1s elapsed (Overture 0.0s, write 0.0s; 3924 divisions)
+2026-09-17T17:56:54Z JP: 9.03 MiB raw, 3.47 MiB br, 3924 divisions
+2026-09-17T17:57:20Z KE: H3 work 160.0s over 207.9s elapsed (Overture 0.0s, write 0.0s; 2050 divisions)
+2026-09-17T17:57:21Z KG: H3 work 7.3s over 206.8s elapsed (Overture 0.0s, write 0.0s; 1689 divisions)
+2026-09-17T17:57:24Z KH: H3 work 7.9s over 208.9s elapsed (Overture 0.0s, write 0.0s; 348 divisions)
+2026-09-17T17:57:25Z KE: 3.00 MiB raw, 1.31 MiB br, 2050 divisions
+2026-09-17T17:57:26Z KG: 0.56 MiB raw, 0.28 MiB br, 1689 divisions
+2026-09-17T17:57:27Z KH: 0.29 MiB raw, 0.14 MiB br, 348 divisions
+2026-09-17T17:57:27Z KI: H3 work 14.3s over 48.1s elapsed (Overture 0.0s, write 0.0s; 34 divisions)
+2026-09-17T17:57:28Z KI: 0.14 MiB raw, 0.05 MiB br, 34 divisions
+2026-09-17T17:57:28Z KN: H3 work 0.7s over 6.9s elapsed (Overture 0.0s, write 0.0s; 17 divisions)
+2026-09-17T17:57:28Z KM: H3 work 1.5s over 8.4s elapsed (Overture 0.0s, write 0.0s; 83 divisions)
+2026-09-17T17:57:28Z KN: 0.00 MiB raw, 0.00 MiB br, 17 divisions
+2026-09-17T17:57:29Z KM: 0.05 MiB raw, 0.03 MiB br, 83 divisions
+2026-09-17T17:57:29Z KP: H3 work 6.4s over 5.6s elapsed (Overture 0.0s, write 0.0s; 109 divisions)
+2026-09-17T17:57:30Z KP: 0.10 MiB raw, 0.05 MiB br, 109 divisions
+2026-09-17T17:57:51Z KY: H3 work 0.0s over 22.7s elapsed (Overture 0.0s, write 0.0s; 8 divisions)
+2026-09-17T17:57:51Z KY: 0.00 MiB raw, 0.00 MiB br, 8 divisions
+2026-09-17T17:57:51Z KR: H3 work 85.3s over 24.3s elapsed (Overture 0.0s, write 0.0s; 3659 divisions)
+2026-09-17T17:57:51Z KW: H3 work 0.4s over 23.1s elapsed (Overture 0.0s, write 0.0s; 144 divisions)
+2026-09-17T17:57:57Z KR: 2.80 MiB raw, 1.27 MiB br, 3659 divisions
+2026-09-17T17:57:57Z KW: 0.03 MiB raw, 0.01 MiB br, 144 divisions
+2026-09-17T17:59:08Z KZ: H3 work 306.5s over 98.8s elapsed (Overture 0.0s, write 0.0s; 4103 divisions)
+2026-09-17T17:59:10Z LA: H3 work 6.4s over 78.8s elapsed (Overture 0.0s, write 0.0s; 223 divisions)
+2026-09-17T17:59:12Z LC: H3 work 0.0s over 80.4s elapsed (Overture 0.0s, write 0.0s; 13 divisions)
+2026-09-17T17:59:12Z LI: H3 work 0.1s over 3.7s elapsed (Overture 0.0s, write 0.0s; 12 divisions)
+2026-09-17T17:59:13Z LB: H3 work 6.6s over 81.3s elapsed (Overture 0.0s, write 0.0s; 1133 divisions)
+2026-09-17T17:59:13Z LK: H3 work 2.3s over 3.6s elapsed (Overture 0.0s, write 0.0s; 68 divisions)
+2026-09-17T17:59:15Z LR: H3 work 5.4s over 2.8s elapsed (Overture 0.0s, write 0.0s; 206 divisions)
+2026-09-17T17:59:18Z LS: H3 work 1.5s over 6.1s elapsed (Overture 0.0s, write 0.0s; 100 divisions)
+2026-09-17T17:59:20Z KZ: 5.37 MiB raw, 2.18 MiB br, 4103 divisions
+2026-09-17T17:59:20Z LA: 0.19 MiB raw, 0.09 MiB br, 223 divisions
+2026-09-17T17:59:20Z LC: 0.00 MiB raw, 0.00 MiB br, 13 divisions
+2026-09-17T17:59:20Z LI: 0.00 MiB raw, 0.00 MiB br, 12 divisions
+2026-09-17T17:59:21Z LB: 0.44 MiB raw, 0.22 MiB br, 1133 divisions
+2026-09-17T17:59:22Z LK: 0.06 MiB raw, 0.03 MiB br, 68 divisions
+2026-09-17T17:59:22Z LR: 0.15 MiB raw, 0.07 MiB br, 206 divisions
+2026-09-17T17:59:22Z LS: 0.05 MiB raw, 0.03 MiB br, 100 divisions
+2026-09-17T17:59:22Z LT: H3 work 24.8s over 9.4s elapsed (Overture 0.0s, write 0.0s; 4594 divisions)
+2026-09-17T17:59:25Z LU: H3 work 0.8s over 11.3s elapsed (Overture 0.0s, write 0.0s; 114 divisions)
+2026-09-17T17:59:26Z LT: 1.64 MiB raw, 0.82 MiB br, 4594 divisions
+2026-09-17T17:59:26Z LU: 0.02 MiB raw, 0.01 MiB br, 114 divisions
+2026-09-17T17:59:41Z LV: H3 work 69.5s over 25.9s elapsed (Overture 0.0s, write 0.0s; 2090 divisions)
+2026-09-17T17:59:42Z LY: H3 work 4.1s over 23.3s elapsed (Overture 0.0s, write 0.0s; 211 divisions)
+2026-09-17T17:59:44Z LV: 1.86 MiB raw, 0.87 MiB br, 2090 divisions
+2026-09-17T17:59:44Z LY: 0.15 MiB raw, 0.07 MiB br, 211 divisions
+2026-09-17T18:00:16Z MC: H3 work 0.0s over 51.6s elapsed (Overture 0.0s, write 0.0s; 2 divisions)
+2026-09-17T18:00:17Z MC: 0.00 MiB raw, 0.00 MiB br, 2 divisions
+2026-09-17T18:00:17Z MA: H3 work 140.0s over 54.6s elapsed (Overture 0.0s, write 0.0s; 641 divisions)
+2026-09-17T18:00:20Z MA: 1.75 MiB raw, 0.74 MiB br, 641 divisions
+2026-09-17T18:00:27Z MF: H3 work 0.1s over 10.4s elapsed (Overture 0.0s, write 0.0s; 2 divisions)
+2026-09-17T18:00:27Z MF: 0.00 MiB raw, 0.00 MiB br, 2 divisions
+2026-09-17T18:00:27Z MD: H3 work 39.1s over 46.4s elapsed (Overture 0.0s, write 0.0s; 1811 divisions)
+2026-09-17T18:00:28Z ME: H3 work 2.5s over 46.4s elapsed (Overture 0.0s, write 0.0s; 358 divisions)
+2026-09-17T18:00:31Z MD: 1.30 MiB raw, 0.61 MiB br, 1811 divisions
+2026-09-17T18:00:31Z ME: 0.12 MiB raw, 0.06 MiB br, 358 divisions
+2026-09-17T18:00:57Z MH: H3 work 0.5s over 29.8s elapsed (Overture 0.0s, write 0.0s; 26 divisions)
+2026-09-17T18:00:58Z MH: 0.00 MiB raw, 0.00 MiB br, 26 divisions
+2026-09-17T18:00:58Z MG: H3 work 115.8s over 40.9s elapsed (Overture 0.0s, write 0.0s; 1232 divisions)
+2026-09-17T18:01:01Z MG: 1.89 MiB raw, 0.84 MiB br, 1232 divisions
+2026-09-17T18:01:05Z MK: H3 work 31.5s over 38.5s elapsed (Overture 0.0s, write 0.0s; 1828 divisions)
+2026-09-17T18:01:09Z MK: 1.18 MiB raw, 0.58 MiB br, 1828 divisions
+2026-09-17T18:01:11Z ML: H3 work 21.3s over 42.8s elapsed (Overture 0.0s, write 0.0s; 84 divisions)
+2026-09-17T18:01:11Z ML: 0.23 MiB raw, 0.10 MiB br, 84 divisions
+2026-09-17T18:01:16Z MM: H3 work 22.9s over 19.8s elapsed (Overture 0.0s, write 0.0s; 3907 divisions)
+2026-09-17T18:01:19Z MM: 0.96 MiB raw, 0.46 MiB br, 3907 divisions
+2026-09-17T18:01:25Z MP: H3 work 0.0s over 13.8s elapsed (Overture 0.0s, write 0.1s; 12 divisions)
+2026-09-17T18:01:25Z MO: H3 work 0.0s over 19.2s elapsed (Overture 0.0s, write 0.0s; 9 divisions)
+2026-09-17T18:01:25Z MP: 0.00 MiB raw, 0.00 MiB br, 12 divisions
+2026-09-17T18:01:25Z MO: 0.00 MiB raw, 0.00 MiB br, 9 divisions
+2026-09-17T18:01:25Z MN: H3 work 29.5s over 27.4s elapsed (Overture 0.0s, write 0.0s; 573 divisions)
+2026-09-17T18:01:26Z MQ: H3 work 1.3s over 9.5s elapsed (Overture 0.0s, write 0.0s; 41 divisions)
+2026-09-17T18:01:28Z MS: H3 work 0.0s over 3.3s elapsed (Overture 0.0s, write 0.0s; 4 divisions)
+2026-09-17T18:01:28Z MN: 0.71 MiB raw, 0.31 MiB br, 573 divisions
+2026-09-17T18:01:29Z MT: H3 work 0.4s over 3.7s elapsed (Overture 0.0s, write 0.1s; 76 divisions)
+2026-09-17T18:01:30Z MQ: 0.05 MiB raw, 0.02 MiB br, 41 divisions
+2026-09-17T18:01:30Z MS: 0.00 MiB raw, 0.00 MiB br, 4 divisions
+2026-09-17T18:01:30Z MT: 0.02 MiB raw, 0.01 MiB br, 76 divisions
+2026-09-17T18:01:30Z MR: H3 work 11.5s over 5.1s elapsed (Overture 0.0s, write 0.0s; 118 divisions)
+2026-09-17T18:01:30Z MV: H3 work 0.4s over 1.8s elapsed (Overture 0.0s, write 0.0s; 29 divisions)
+2026-09-17T18:01:30Z MU: H3 work 2.1s over 3.9s elapsed (Overture 0.0s, write 0.0s; 221 divisions)
+2026-09-17T18:01:36Z MR: 0.20 MiB raw, 0.08 MiB br, 118 divisions
+2026-09-17T18:01:36Z MV: 0.01 MiB raw, 0.00 MiB br, 29 divisions
+2026-09-17T18:01:36Z MU: 0.11 MiB raw, 0.06 MiB br, 221 divisions
+2026-09-17T18:01:36Z MW: H3 work 2.4s over 7.5s elapsed (Overture 0.0s, write 0.0s; 140 divisions)
+2026-09-17T18:01:37Z MW: 0.08 MiB raw, 0.04 MiB br, 140 divisions
+2026-09-17T18:01:49Z STOPPED DELIBERATELY to restart with pre-pickled batches (coordinator was at ~7 GB); resumed
