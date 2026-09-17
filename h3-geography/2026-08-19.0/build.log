@@ -90,3 +90,7 @@
 2026-09-17T16:51:43Z CK: 0.02 MiB raw, 0.01 MiB br, 17 divisions
 2026-09-17T16:51:43Z CI: H3 work 48.3s over 40.9s elapsed (Overture 0.0s, write 0.0s; 207 divisions)
 2026-09-17T16:51:48Z CI: 0.54 MiB raw, 0.23 MiB br, 207 divisions
+2026-09-17T16:52:40Z CL: H3 work 245.9s over 89.5s elapsed (Overture 0.0s, write 0.0s; 425 divisions)
+2026-09-17T16:52:45Z CL: 2.51 MiB raw, 1.11 MiB br, 425 divisions
+2026-09-17T16:53:42Z CM: H3 work 214.2s over 139.8s elapsed (Overture 0.0s, write 0.0s; 512 divisions)
+2026-09-17T16:53:45Z CM: 2.08 MiB raw, 0.87 MiB br, 512 divisions
