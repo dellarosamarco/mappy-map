@@ -126,3 +126,11 @@
 2026-09-17T17:38:10Z = DZ: valid compact H3 artifact already present, skipping (--resume)
 2026-09-17T17:38:16Z DZ: 4.86 MiB raw, 2.03 MiB br, 2291 divisions
 2026-09-17T17:38:16Z Building 209 remaining compact H3 geography JSONs on 4 persistent division worker process(es); 63 countries reused.
+2026-09-17T17:39:08Z EC: H3 work 35.2s over 12.5s elapsed (Overture 38.7s, write 0.0s; 1376 divisions, 532 divisions resumed)
+2026-09-17T17:39:35Z EC: 2.93 MiB raw, 1.34 MiB br, 1376 divisions
+2026-09-17T17:39:35Z ER: H3 work 3.3s over 30.4s elapsed (Overture 0.0s, write 0.0s; 139 divisions)
+2026-09-17T17:39:36Z EE: H3 work 67.3s over 38.0s elapsed (Overture 0.0s, write 0.0s; 4893 divisions)
+2026-09-17T17:39:36Z EG: H3 work 14.7s over 30.9s elapsed (Overture 0.0s, write 0.0s; 890 divisions)
+2026-09-17T17:39:37Z ER: 0.09 MiB raw, 0.05 MiB br, 139 divisions
+2026-09-17T17:39:42Z EE: 3.09 MiB raw, 1.48 MiB br, 4893 divisions
+2026-09-17T17:39:43Z EG: 0.45 MiB raw, 0.22 MiB br, 890 divisions
