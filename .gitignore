@@ -1,0 +1,3 @@
+# Intra-country build checkpoints and half-written files; rebuilt by --resume.
+h3-geography/**/.checkpoints/
+*.tmp
