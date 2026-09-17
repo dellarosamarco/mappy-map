@@ -22,3 +22,71 @@
 2026-09-17T17:34:40Z = AS: valid compact H3 artifact already present, skipping (--resume)
 2026-09-17T17:34:40Z AS: 0.05 MiB raw, 0.03 MiB br, 97 divisions
 2026-09-17T17:34:40Z = AT: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:34:43Z AT: 2.65 MiB raw, 1.26 MiB br, 2319 divisions
+2026-09-17T17:34:43Z = AU: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:35:21Z AU: 28.17 MiB raw, 11.61 MiB br, 14568 divisions
+2026-09-17T17:35:21Z = AW: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:35:21Z AW: 0.00 MiB raw, 0.00 MiB br, 6 divisions
+2026-09-17T17:35:21Z = AX: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:35:21Z AX: 0.02 MiB raw, 0.01 MiB br, 25 divisions
+2026-09-17T17:35:21Z = AZ: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:35:22Z AZ: 0.89 MiB raw, 0.46 MiB br, 3462 divisions
+2026-09-17T17:35:22Z = BA: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:35:23Z BA: 0.22 MiB raw, 0.11 MiB br, 164 divisions
+2026-09-17T17:35:23Z = BB: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:35:23Z BB: 0.01 MiB raw, 0.01 MiB br, 92 divisions
+2026-09-17T17:35:23Z = BD: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:35:24Z BD: 0.80 MiB raw, 0.38 MiB br, 819 divisions
+2026-09-17T17:35:24Z = BE: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:35:26Z BE: 1.73 MiB raw, 0.80 MiB br, 2295 divisions
+2026-09-17T17:35:26Z = BF: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:35:27Z BF: 1.29 MiB raw, 0.54 MiB br, 331 divisions
+2026-09-17T17:35:27Z = BG: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:35:29Z BG: 2.05 MiB raw, 0.98 MiB br, 2322 divisions
+2026-09-17T17:35:29Z = BH: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:35:29Z BH: 0.00 MiB raw, 0.00 MiB br, 7 divisions
+2026-09-17T17:35:29Z = BI: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:35:30Z BI: 0.06 MiB raw, 0.03 MiB br, 159 divisions
+2026-09-17T17:35:30Z = BJ: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:35:30Z BJ: 0.16 MiB raw, 0.08 MiB br, 356 divisions
+2026-09-17T17:35:30Z = BL: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:35:30Z BL: 0.00 MiB raw, 0.00 MiB br, 2 divisions
+2026-09-17T17:35:30Z = BM: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:35:30Z BM: 0.00 MiB raw, 0.00 MiB br, 12 divisions
+2026-09-17T17:35:30Z = BN: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:35:30Z BN: 0.04 MiB raw, 0.02 MiB br, 102 divisions
+2026-09-17T17:35:30Z = BO: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:35:33Z BO: 2.65 MiB raw, 1.17 MiB br, 3888 divisions
+2026-09-17T17:35:33Z = BQ: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:35:33Z BQ: 0.00 MiB raw, 0.00 MiB br, 1 divisions
+2026-09-17T17:35:33Z = BR: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:36:11Z BR: 26.45 MiB raw, 11.25 MiB br, 6377 divisions
+2026-09-17T17:36:11Z = BS: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:36:11Z BS: 0.01 MiB raw, 0.01 MiB br, 36 divisions
+2026-09-17T17:36:11Z = BT: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:36:12Z BT: 0.94 MiB raw, 0.44 MiB br, 1063 divisions
+2026-09-17T17:36:12Z = BV: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:36:12Z BV: 0.00 MiB raw, 0.00 MiB br, 1 divisions
+2026-09-17T17:36:12Z = BW: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:36:12Z BW: 0.11 MiB raw, 0.05 MiB br, 59 divisions
+2026-09-17T17:36:12Z = BY: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:36:22Z BY: 7.61 MiB raw, 3.62 MiB br, 23806 divisions
+2026-09-17T17:36:22Z = BZ: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:36:22Z BZ: 0.04 MiB raw, 0.02 MiB br, 41 divisions
+2026-09-17T17:36:22Z = CA: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:36:36Z CA: 10.79 MiB raw, 4.40 MiB br, 7375 divisions
+2026-09-17T17:36:36Z = CC: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:36:36Z CC: 0.00 MiB raw, 0.00 MiB br, 2 divisions
+2026-09-17T17:36:36Z = CD: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:36:37Z CD: 1.34 MiB raw, 0.61 MiB br, 1490 divisions
+2026-09-17T17:36:37Z = CF: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:36:38Z CF: 0.23 MiB raw, 0.11 MiB br, 124 divisions
+2026-09-17T17:36:38Z = CG: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:36:38Z CG: 0.13 MiB raw, 0.06 MiB br, 91 divisions
+2026-09-17T17:36:38Z = CH: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:36:40Z CH: 1.75 MiB raw, 0.86 MiB br, 2335 divisions
+2026-09-17T17:36:40Z = CI: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:36:40Z CI: 0.54 MiB raw, 0.23 MiB br, 207 divisions
+2026-09-17T17:36:40Z = CK: valid compact H3 artifact already present, skipping (--resume)
+2026-09-17T17:36:40Z CK: 0.02 MiB raw, 0.01 MiB br, 17 divisions
+2026-09-17T17:36:40Z = CL: valid compact H3 artifact already present, skipping (--resume)
