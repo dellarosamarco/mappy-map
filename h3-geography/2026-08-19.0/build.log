@@ -152,3 +152,50 @@
 2026-09-17T17:44:55Z GA: H3 work 4.7s over 78.0s elapsed (Overture 0.0s, write 0.0s; 96 divisions)
 2026-09-17T17:45:01Z FR: 3.21 MiB raw, 1.49 MiB br, 2317 divisions
 2026-09-17T17:45:01Z GA: 0.12 MiB raw, 0.06 MiB br, 96 divisions
+2026-09-17T17:45:46Z GD: H3 work 0.1s over 116.7s elapsed (Overture 0.0s, write 0.0s; 8 divisions)
+2026-09-17T17:45:47Z GB: H3 work 194.3s over 129.1s elapsed (Overture 0.0s, write 0.0s; 22139 divisions)
+2026-09-17T17:45:47Z GD: 0.00 MiB raw, 0.00 MiB br, 8 divisions
+2026-09-17T17:45:49Z GE: H3 work 8.5s over 53.7s elapsed (Overture 0.0s, write 0.0s; 1308 divisions)
+2026-09-17T17:45:49Z GG: H3 work 0.8s over 3.2s elapsed (Overture 0.0s, write 0.0s; 14 divisions)
+2026-09-17T17:45:50Z GF: H3 work 2.4s over 54.4s elapsed (Overture 0.0s, write 0.0s; 29 divisions)
+2026-09-17T17:45:51Z GI: H3 work 0.0s over 2.8s elapsed (Overture 0.0s, write 0.0s; 1 divisions)
+2026-09-17T17:45:53Z GH: H3 work 11.9s over 6.8s elapsed (Overture 0.0s, write 0.0s; 298 divisions)
+2026-09-17T17:45:55Z GM: H3 work 0.9s over 5.3s elapsed (Overture 0.0s, write 0.0s; 218 divisions)
+2026-09-17T17:45:58Z GL: H3 work 11.8s over 8.1s elapsed (Overture 0.0s, write 0.0s; 19 divisions)
+2026-09-17T17:46:00Z GN: H3 work 15.8s over 8.4s elapsed (Overture 0.0s, write 0.0s; 143 divisions)
+2026-09-17T17:46:01Z GP: H3 work 2.7s over 7.6s elapsed (Overture 0.0s, write 0.0s; 35 divisions)
+2026-09-17T17:46:07Z GQ: H3 work 24.2s over 11.6s elapsed (Overture 0.0s, write 0.0s; 66 divisions)
+2026-09-17T17:46:08Z GS: H3 work 0.1s over 8.5s elapsed (Overture 0.0s, write 0.0s; 4 divisions)
+2026-09-17T17:46:10Z GT: H3 work 4.0s over 9.2s elapsed (Overture 0.0s, write 0.0s; 450 divisions)
+2026-09-17T17:46:11Z GU: H3 work 0.4s over 3.9s elapsed (Overture 0.0s, write 0.0s; 48 divisions)
+2026-09-17T17:46:12Z GR: H3 work 9.0s over 14.4s elapsed (Overture 0.0s, write 0.0s; 531 divisions)
+2026-09-17T17:46:12Z GW: H3 work 1.6s over 3.6s elapsed (Overture 0.0s, write 0.0s; 162 divisions)
+2026-09-17T17:46:13Z GB: 10.82 MiB raw, 5.27 MiB br, 22139 divisions
+2026-09-17T17:46:13Z HM: H3 work 0.0s over 1.3s elapsed (Overture 0.0s, write 0.1s; 1 divisions)
+2026-09-17T17:46:18Z GE: 0.45 MiB raw, 0.22 MiB br, 1308 divisions
+2026-09-17T17:46:18Z GG: 0.00 MiB raw, 0.00 MiB br, 14 divisions
+2026-09-17T17:46:18Z GF: 0.04 MiB raw, 0.02 MiB br, 29 divisions
+2026-09-17T17:46:18Z GI: 0.00 MiB raw, 0.00 MiB br, 1 divisions
+2026-09-17T17:46:18Z GH: 0.29 MiB raw, 0.14 MiB br, 298 divisions
+2026-09-17T17:46:18Z GM: 0.04 MiB raw, 0.02 MiB br, 218 divisions
+2026-09-17T17:46:18Z GL: 0.10 MiB raw, 0.04 MiB br, 19 divisions
+2026-09-17T17:46:18Z GN: 0.20 MiB raw, 0.09 MiB br, 143 divisions
+2026-09-17T17:46:18Z GP: 0.05 MiB raw, 0.03 MiB br, 35 divisions
+2026-09-17T17:46:18Z GQ: 0.19 MiB raw, 0.08 MiB br, 66 divisions
+2026-09-17T17:46:18Z GS: 0.00 MiB raw, 0.00 MiB br, 4 divisions
+2026-09-17T17:46:18Z GT: 0.19 MiB raw, 0.09 MiB br, 450 divisions
+2026-09-17T17:46:18Z GU: 0.01 MiB raw, 0.01 MiB br, 48 divisions
+2026-09-17T17:46:18Z GR: 0.24 MiB raw, 0.12 MiB br, 531 divisions
+2026-09-17T17:46:18Z GW: 0.05 MiB raw, 0.03 MiB br, 162 divisions
+2026-09-17T17:46:18Z HM: 0.00 MiB raw, 0.00 MiB br, 1 divisions
+2026-09-17T17:46:18Z GY: H3 work 7.7s over 7.9s elapsed (Overture 0.0s, write 0.0s; 314 divisions)
+2026-09-17T17:46:18Z HK: H3 work 0.5s over 7.5s elapsed (Overture 0.0s, write 0.0s; 62 divisions)
+2026-09-17T17:46:18Z HN: H3 work 4.4s over 6.1s elapsed (Overture 0.0s, write 0.0s; 482 divisions)
+2026-09-17T17:46:53Z GY: 0.21 MiB raw, 0.10 MiB br, 314 divisions
+2026-09-17T17:46:53Z HK: 0.02 MiB raw, 0.01 MiB br, 62 divisions
+2026-09-17T17:46:53Z HN: 0.22 MiB raw, 0.11 MiB br, 482 divisions
+2026-09-17T17:46:53Z HT: H3 work 34.0s over 34.8s elapsed (Overture 0.0s, write 0.0s; 196 divisions)
+2026-09-17T17:46:53Z HR: H3 work 69.1s over 36.7s elapsed (Overture 3.1s, write 0.0s; 7605 divisions)
+2026-09-17T17:46:54Z HT: 0.51 MiB raw, 0.24 MiB br, 196 divisions
+2026-09-17T17:47:02Z HR: 3.72 MiB raw, 1.83 MiB br, 7605 divisions
+2026-09-17T17:47:13Z HU: H3 work 77.2s over 54.2s elapsed (Overture 0.0s, write 0.0s; 3356 divisions)
