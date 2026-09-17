@@ -551,6 +551,62 @@
       "rawBytes": 340969,
       "transportBytes": 158910,
       "transportEncoding": "br"
+    },
+    "FI": {
+      "compressionRatio": 0.40856067250351924,
+      "countryCode": "FI",
+      "divisionCount": 2188,
+      "rawBytes": 3490123,
+      "transportBytes": 1425927,
+      "transportEncoding": "br"
+    },
+    "FJ": {
+      "compressionRatio": 0.5269334274495964,
+      "countryCode": "FJ",
+      "divisionCount": 133,
+      "rawBytes": 45334,
+      "transportBytes": 23888,
+      "transportEncoding": "br"
+    },
+    "FK": {
+      "compressionRatio": 0.5172485237749922,
+      "countryCode": "FK",
+      "divisionCount": 26,
+      "rawBytes": 9653,
+      "transportBytes": 4993,
+      "transportEncoding": "br"
+    },
+    "FM": {
+      "compressionRatio": 0.4418065143776543,
+      "countryCode": "FM",
+      "divisionCount": 84,
+      "rawBytes": 160353,
+      "transportBytes": 70845,
+      "transportEncoding": "br"
+    },
+    "FO": {
+      "compressionRatio": 0.49619229499693496,
+      "countryCode": "FO",
+      "divisionCount": 92,
+      "rawBytes": 84828,
+      "transportBytes": 42091,
+      "transportEncoding": "br"
+    },
+    "FR": {
+      "compressionRatio": 0.46480412318423114,
+      "countryCode": "FR",
+      "divisionCount": 2317,
+      "rawBytes": 3364002,
+      "transportBytes": 1563602,
+      "transportEncoding": "br"
+    },
+    "GA": {
+      "compressionRatio": 0.48239217178053145,
+      "countryCode": "GA",
+      "divisionCount": 96,
+      "rawBytes": 123553,
+      "transportBytes": 59601,
+      "transportEncoding": "br"
     }
   },
   "h3GeographySchemaVersion": 8,
@@ -644,11 +700,27 @@
       "transportEncoding": "br"
     },
     {
+      "compressionRatio": 0.46480412318423114,
+      "countryCode": "FR",
+      "divisionCount": 2317,
+      "rawBytes": 3364002,
+      "transportBytes": 1563602,
+      "transportEncoding": "br"
+    },
+    {
       "compressionRatio": 0.4779994247811805,
       "countryCode": "EE",
       "divisionCount": 4893,
       "rawBytes": 3237029,
       "transportBytes": 1547298,
+      "transportEncoding": "br"
+    },
+    {
+      "compressionRatio": 0.40856067250351924,
+      "countryCode": "FI",
+      "divisionCount": 2188,
+      "rawBytes": 3490123,
+      "transportBytes": 1425927,
       "transportEncoding": "br"
     },
     {
@@ -698,32 +770,16 @@
       "rawBytes": 2183377,
       "transportBytes": 909161,
       "transportEncoding": "br"
-    },
-    {
-      "compressionRatio": 0.4881917562607029,
-      "countryCode": "CH",
-      "divisionCount": 2335,
-      "rawBytes": 1838292,
-      "transportBytes": 897439,
-      "transportEncoding": "br"
-    },
-    {
-      "compressionRatio": 0.4613887404755879,
-      "countryCode": "BE",
-      "divisionCount": 2295,
-      "rawBytes": 1813629,
-      "transportBytes": 836788,
-      "transportEncoding": "br"
     }
   ],
   "schemaVersion": 2,
   "sourceRelease": "2026-08-19.0",
   "totals": {
-    "compressionRatio": 0.4374615856639096,
-    "countryCount": 69,
-    "divisionCount": 150724,
-    "rawBytes": 200289808,
-    "transportBytes": 87619097,
+    "compressionRatio": 0.43749612355304646,
+    "countryCount": 76,
+    "divisionCount": 155660,
+    "rawBytes": 207567654,
+    "transportBytes": 90810044,
     "transportEncoding": "br"
   },
   "worldIndex": {
