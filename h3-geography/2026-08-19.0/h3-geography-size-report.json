@@ -1303,6 +1303,86 @@
       "rawBytes": 136,
       "transportBytes": 140,
       "transportEncoding": "br"
+    },
+    "NG": {
+      "compressionRatio": 0.4037740954199117,
+      "countryCode": "NG",
+      "divisionCount": 3678,
+      "rawBytes": 6637776,
+      "transportBytes": 2680162,
+      "transportEncoding": "br"
+    },
+    "NI": {
+      "compressionRatio": 0.5035986096574537,
+      "countryCode": "NI",
+      "divisionCount": 319,
+      "rawBytes": 154782,
+      "transportBytes": 77948,
+      "transportEncoding": "br"
+    },
+    "NL": {
+      "compressionRatio": 0.47383498684200054,
+      "countryCode": "NL",
+      "divisionCount": 2901,
+      "rawBytes": 2135963,
+      "transportBytes": 1012094,
+      "transportEncoding": "br"
+    },
+    "NO": {
+      "compressionRatio": 0.4730727450483398,
+      "countryCode": "NO",
+      "divisionCount": 396,
+      "rawBytes": 552340,
+      "transportBytes": 261297,
+      "transportEncoding": "br"
+    },
+    "NP": {
+      "compressionRatio": 0.4598620115492259,
+      "countryCode": "NP",
+      "divisionCount": 1045,
+      "rawBytes": 2258160,
+      "transportBytes": 1038442,
+      "transportEncoding": "br"
+    },
+    "NR": {
+      "compressionRatio": 0.6254728877679697,
+      "countryCode": "NR",
+      "divisionCount": 23,
+      "rawBytes": 1586,
+      "transportBytes": 992,
+      "transportEncoding": "br"
+    },
+    "NU": {
+      "compressionRatio": 0.5366584056175134,
+      "countryCode": "NU",
+      "divisionCount": 14,
+      "rawBytes": 9684,
+      "transportBytes": 5197,
+      "transportEncoding": "br"
+    },
+    "NZ": {
+      "compressionRatio": 0.45868785414875457,
+      "countryCode": "NZ",
+      "divisionCount": 2373,
+      "rawBytes": 4703532,
+      "transportBytes": 2157453,
+      "transportEncoding": "br"
+    },
+    "OM": {
+      "compressionRatio": 0.4697946000986429,
+      "countryCode": "OM",
+      "divisionCount": 155,
+      "rawBytes": 188559,
+      "transportBytes": 88584,
+      "transportEncoding": "br"
+    },
+    "PA": {
+      "compressionRatio": 0.46794445510436355,
+      "countryCode": "PA",
+      "divisionCount": 581,
+      "rawBytes": 1141347,
+      "transportBytes": 534087,
+      "transportEncoding": "br"
     }
   },
   "h3GeographySchemaVersion": 8,
@@ -1412,6 +1492,14 @@
       "transportEncoding": "br"
     },
     {
+      "compressionRatio": 0.4037740954199117,
+      "countryCode": "NG",
+      "divisionCount": 3678,
+      "rawBytes": 6637776,
+      "transportBytes": 2680162,
+      "transportEncoding": "br"
+    },
+    {
       "compressionRatio": 0.487886703720698,
       "countryCode": "CZ",
       "divisionCount": 6352,
@@ -1425,6 +1513,14 @@
       "divisionCount": 4103,
       "rawBytes": 5628091,
       "transportBytes": 2285886,
+      "transportEncoding": "br"
+    },
+    {
+      "compressionRatio": 0.45868785414875457,
+      "countryCode": "NZ",
+      "divisionCount": 2373,
+      "rawBytes": 4703532,
+      "transportBytes": 2157453,
       "transportEncoding": "br"
     },
     {
@@ -1450,32 +1546,16 @@
       "rawBytes": 3408695,
       "transportBytes": 1588374,
       "transportEncoding": "br"
-    },
-    {
-      "compressionRatio": 0.46480412318423114,
-      "countryCode": "FR",
-      "divisionCount": 2317,
-      "rawBytes": 3364002,
-      "transportBytes": 1563602,
-      "transportEncoding": "br"
-    },
-    {
-      "compressionRatio": 0.483010895766564,
-      "countryCode": "IN",
-      "divisionCount": 6145,
-      "rawBytes": 3222536,
-      "transportBytes": 1556520,
-      "transportEncoding": "br"
     }
   ],
   "schemaVersion": 2,
   "sourceRelease": "2026-08-19.0",
   "totals": {
-    "compressionRatio": 0.44107659749035644,
-    "countryCount": 163,
-    "divisionCount": 262879,
-    "rawBytes": 300197133,
-    "transportBytes": 132409930,
+    "compressionRatio": 0.44111518258605137,
+    "countryCount": 173,
+    "divisionCount": 274364,
+    "rawBytes": 317980862,
+    "transportBytes": 140266186,
     "transportEncoding": "br"
   },
   "worldIndex": {
