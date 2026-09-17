@@ -312,3 +312,19 @@
 2026-09-17T18:02:19Z = MW: valid compact H3 artifact already present, skipping (--resume)
 2026-09-17T18:02:19Z MW: 0.08 MiB raw, 0.04 MiB br, 140 divisions
 2026-09-17T18:02:19Z Building 116 remaining compact H3 geography JSONs on 4 persistent division worker process(es); 156 countries reused.
+2026-09-17T18:03:26Z MX: H3 work 28.8s over 12.4s elapsed (Overture 54.9s, write 0.0s; 4111 divisions, 327 divisions resumed)
+2026-09-17T18:03:31Z MX: 2.23 MiB raw, 1.09 MiB br, 4111 divisions
+2026-09-17T18:03:32Z MY: H3 work 21.6s over 11.8s elapsed (Overture 0.2s, write 0.0s; 812 divisions)
+2026-09-17T18:03:34Z MY: 0.43 MiB raw, 0.21 MiB br, 812 divisions
+2026-09-17T18:03:38Z MZ: H3 work 18.5s over 16.1s elapsed (Overture 0.4s, write 0.1s; 290 divisions)
+2026-09-17T18:03:40Z MZ: 0.34 MiB raw, 0.17 MiB br, 290 divisions
+2026-09-17T18:03:41Z NA: H3 work 13.2s over 18.7s elapsed (Overture 0.1s, write 0.0s; 197 divisions)
+2026-09-17T18:03:42Z NA: 0.25 MiB raw, 0.12 MiB br, 197 divisions
+2026-09-17T18:03:42Z NC: H3 work 1.1s over 16.1s elapsed (Overture 0.1s, write 0.0s; 37 divisions)
+2026-09-17T18:03:43Z NC: 0.03 MiB raw, 0.01 MiB br, 37 divisions
+2026-09-17T18:03:44Z NF: H3 work 0.0s over 6.2s elapsed (Overture 0.0s, write 0.0s; 1 divisions)
+2026-09-17T18:03:51Z NF: 0.00 MiB raw, 0.00 MiB br, 1 divisions
+2026-09-17T18:03:51Z NE: H3 work 11.8s over 18.7s elapsed (Overture 0.0s, write 0.0s; 93 divisions)
+2026-09-17T18:03:53Z NE: 0.15 MiB raw, 0.06 MiB br, 93 divisions
+2026-09-17T18:04:40Z NG: H3 work 206.1s over 59.3s elapsed (Overture 0.1s, write 0.0s; 3678 divisions)
+2026-09-17T18:04:42Z NI: H3 work 4.1s over 59.2s elapsed (Overture 0.4s, write 0.0s; 319 divisions)
