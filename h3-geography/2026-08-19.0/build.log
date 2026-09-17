@@ -113,3 +113,6 @@
 2026-09-17T17:04:22Z CY: 0.54 MiB raw, 0.25 MiB br, 718 divisions
 2026-09-17T17:04:23Z CU: 0.38 MiB raw, 0.19 MiB br, 619 divisions
 2026-09-17T17:04:30Z CZ: H3 work 105.1s over 38.0s elapsed (Overture 0.0s, write 0.0s; 6352 divisions)
+2026-09-17T17:04:45Z CZ: 4.57 MiB raw, 2.23 MiB br, 6352 divisions
+2026-09-17T17:06:51Z DJ: H3 work 0.1s over 151.5s elapsed (Overture 0.0s, write 0.0s; 21 divisions)
+2026-09-17T17:06:52Z DE: H3 work 537.8s over 168.0s elapsed (Overture 0.0s, write 0.1s; 23587 divisions)
